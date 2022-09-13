@@ -2,11 +2,11 @@
 
 
 1. What are the three genders of Latin nouns? Male Female and Nuetral
-2. What are the three pieces of information in a Latin dictionary entry for a noun? Gender Number and Case ❌
+2. What are the three pieces of information in a Latin dictionary entry for a noun? Gender Number and Case ❌ - Singular Nominative, Singular Genetive, Gender
 3. How do you figure out what declension a noun belongs to? Based on which of the three endings it has. 
 4. Like Latin, you can easily describe one noun with another noun in English (e.g., “the book’s title”, “the format of the assignment”). 
-What case do you use in Latin to describe one noun with another noun? Nominative❌
-5. What case does Latin use to name the subject of a verb? Genetive❌
+What case do you use in Latin to describe one noun with another noun? Nominative❌- Genetive
+5. What case does Latin use to name the subject of a verb? Genetive❌ - Nominative
 
 
 
