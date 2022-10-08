@@ -1,18 +1,26 @@
+**+1 Needs revisions.**
+
 Antaeum, terrae filium, in Libyā Hercules occidit.
 Hic hospites interficiebat; hunc luctando ille necauit.
 Cygnum, Martis filium, armis occidit.
 Mars uenit et armis propter filium contendit cum eo, sed Iouis inter eos fulmen misit.
 
+❌ **Need *voice* on all identifications**
 occidit - 3rd P. S. perfect
 interficiebat - 3rd P. S imperfect active 
 necauit - 3rd P. S. perfect
-occidit - 3rd P. S. perfec
+occidit - 3rd P. S. perfect
 contendit - 3rd P. S. Perfect 
 misit - 3rd P. S. perfect 
 
-Prior Deus M/F. S.
+
+
+**Nouns only exist in *one* gender.**
+**Use genitive singular form to find stem.**
+
+Prior Deus M/F. S.❌ 
 Nominative -  Prior Deus	 	 
-Genitive - Prior Dui 	 
+Genitive - Prior Dui 	
 Dative - Prior Duo 	 	 
 Accusative - Prior Duum	 	 	 
 Ablative - Prior Duo
@@ -36,7 +44,7 @@ Dative  -Prior Duis
 Accusative - Prior Dua	 	 
 Ablative - Prior Duis
 
-Pristini Navis M/F S.
+Pristini Navis M/F S.❌ 
 Nominative - Pristini Navis
 Genitive - Pristini Navis 	 
 Dative - Pristini Navi	 	 
@@ -50,13 +58,13 @@ Accusative - Pristini Naves
 Ablative - Pristini Navibus
 
 Capio F. 3rd S.
-Imperfect active - capibat 
-Imperfect passive - capibatur	 
-Perfect active - 	 capit
-Perfect passive - capest
+Imperfect active - capibat ❌ 
+Imperfect passive - capibatur	❌  
+Perfect active - 	 capit❌ 
+Perfect passive - capest❌ 
 
 Uideo N. 3rd S.
 Imperfect active - uidebat
-Imperfect passive	- uidebater
-Perfect active - uideoit 
-Perfect passive - uideoest
+Imperfect passive	- uidebater❌ 
+Perfect active - uideoit ❌ 
+Perfect passive - uideoest❌ 
