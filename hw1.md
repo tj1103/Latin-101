@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 1. The regular latin verb has 4 principal parts, first, second, third, and fourth. 
 2. The first and third principal parts are finite verbs.
