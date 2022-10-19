@@ -1,20 +1,20 @@
-**Needs revisions**
+**+Satisfactory**
 
 1. Tense/Mood - Amo
-Perfect Active - amerunt❌ - amuit
-Perfect passive - amatus❌ - amatus est
-Imperfect active - amebat❌ - amabat
-perfect active  -  amebatur❌ - amabatur
+Perfect Active - amerunt❌ - amauit ✅
+Perfect passive - amatus❌ - amatus est ✅
+Imperfect active - amebat❌ - amabat ✅
+perfect active  -  amebatur❌ - amabatur ✅
 2. Tense/Mood - Audio
-Perfect Active - audest❌ - audiuerent
-Perfect passive - audest❌ - auditi sunt 
-Imperfect active - auditbatur❌ - audibant
-perfect active  -  auditbantur❌ - audibantur
+Perfect Active - audest❌ - audiuerunt ✅
+Perfect passive - audest❌ - auditi sunt  ✅
+Imperfect active - auditbatur❌ - audiebant ✅
+perfect active  -  auditbantur❌ - audiebantur ✅
 3. Tense/Mood - capio
-Perfect Active - caprunt❌ - cepit
-Perfect passive - captus❌ - captus est
-Imperfect active - captbat❌ - capiebat 
-perfect active  -  captbatur❌ - capiebantur
+Perfect Active - caprunt❌ - cepit ✅
+Perfect passive - captus❌ - captus est✅ 
+Imperfect active - captbat❌ - capiebat ✅
+perfect active  -  captbatur❌ - capiebantur✅ 
 
 4. uenērunt Person 3rd - Tense perfect - Mood indicative - Voice Active - Number  - plural
 
