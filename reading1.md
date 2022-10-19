@@ -24,9 +24,9 @@ Mars came to fight him because he killed his son. Jupiter sent a lighting bolt b
  - ablative case 
 (6) Explain the construction cum eo?
  - cum eo means with him, and is paired with a ablative noun.
-(7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?❌
+(7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
  - fulmen is a n. 3rd noun. and it is a direct object in the 4th sentence.   ✅
 (8) Fully identify the form of apposita est. ❌ (not sure what this one would be)
- - appoista est is a passive imperfect verb 
+ - Third, Singular, Imperfect Passive.  
 (9) What is the antecedent of eam?
  - Eam means her and it's refering to Hesione 
