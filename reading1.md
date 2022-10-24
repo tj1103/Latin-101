@@ -1,11 +1,11 @@
 **+1 Needs revisions. Review how we identify nouns and finite verbs.**
 
-*Antaeum*❌, `terrae`❌ filium, in Libyā *Hercules* **occidit**.  
-*Hic* hospites **interficiebat**; hunc `luctando`❌ *ille* **necauit**.
-* *❌, Martis filium, `armis`❌ **occidit**.
-*Mars* uenit et `armis`❌ propter filium **contendit** cum eo, sed *Iouis* inter eos `fulmen` **misit**.
-*Ceto❌ Hesione* apposita est Troiae.
-eum **occidit**; *Laomedonta*, patrem *Hesiones*, quod eam non reddebat, `sagittis`❌ **interfecit**.
+`Antaeum`, terrae filium, in Libyā *Hercules* **occidit**.  
+*Hic* hospites **interficiebat**; `hunc` luctando *ille* **necauit**.
+Martis filium, armis **occidit**.
+*Mars* uenit et armis propter filium **contendit** cum eo, sed *Iouis* inter eos `fulmen` **misit**.
+**Ceto** Hesione* apposita est Troiae.
+Eum **occidit**; *Laomedonta*, patrem *Hesiones*, quod eam non reddebat, sagittis **interfecit**.
 
 Hercules killed the son of the Earth, Anteaus in Libya.  ✅
 (❌)Anteus used to kill guests, he wrestled them to death.  **Subject is *ille*, object is *hunc*; use a name for at least one of them in English.**
