@@ -1,6 +1,6 @@
 **+1 Needs revisions. Review how we identify nouns and finite verbs.**
 
-`Antaeum`, terrae filium, in Libyā *Hercules* **occidit**.  
+`Antaeum`, terrae `filium`, in Libyā *Hercules* **occidit**.  
 *Hic* hospites **interficiebat**; `hunc` luctando *ille* **necauit**.
 Martis filium, armis **occidit**.
 *Mars* uenit et armis propter filium **contendit** cum eo, sed *Iouis* inter eos `fulmen` **misit**.
