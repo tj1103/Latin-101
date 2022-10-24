@@ -13,11 +13,11 @@ What case do you use in Latin to describe one noun with another noun? Nominative
 **Read the instructions again:  you're asked to identify  *each* noun; you've identified 1 noun in each pair.**
 
 
-amor Deianirae - to love Deianira or Dienira is Loved - Gender Female, Case Genetive, Number Single 
-deus amoris  - Gender Nuetral, Case Nominative, Number single 
-amor deorum - Gender Nuetral , Case Nominative, Number Plural
-Herculis canis - Gender Male, Case Genetive, Number Single
-nomen dei - Gender Nuetral, Case Genetive, Number Single
-filii deorum - Gender Male , Case Nominative, Number Single
-nomina filiorum - Gender Male, Case Genetive, Number Plural
-Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
+amor - m.nom. s. Deianirae - f.gen.s. 
+deus - amoris  - 
+amor deorum - 
+Herculis canis -  
+nomen dei - 
+filii deorum - 
+nomina filiorum - 
+
