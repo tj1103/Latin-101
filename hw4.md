@@ -14,10 +14,10 @@ What case do you use in Latin to describe one noun with another noun? Nominative
 
 
 amor - m.nom. s. Deianirae - f.gen.s. 
-deus - amoris  - 
-amor deorum - 
-Herculis canis -  
-nomen dei - 
-filii deorum - 
-nomina filiorum - 
+deus - m.nom.s. amoris - m.gen.s
+amor - m.nom.s. deorum - m. nom.s.
+Herculis - m.gen.s. canis - m.nom.s.  
+nomen - n.nom.s. dei - m.gen.s.
+filii - m.nom.s deorum - m.gen.p.
+nomina- n.nom.s. filiorum -m.gen.p. 
 
