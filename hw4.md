@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 
 1. What are the three genders of Latin nouns? Male Female and Nuetral
@@ -15,9 +15,9 @@ What case do you use in Latin to describe one noun with another noun? Nominative
 
 amor - m.nom. s. Deianirae - f.gen.s. 
 deus - m.nom.s. amoris - m.gen.s
-amor - m.nom.s. deorum - m. nom.s.
+amor - m.nom.s. deorum - m. nom.pl.
 Herculis - m.gen.s. canis - m.nom.s.  
 nomen - n.nom.s. dei - m.gen.s.
-filii - m.nom.s deorum - m.gen.p.
-nomina- n.nom.s. filiorum -m.gen.p. 
+filii - m.nom.pl deorum - m.gen.p.
+nomina- n.nom.pl. filiorum -m.gen.p. 
 
