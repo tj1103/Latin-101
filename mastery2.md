@@ -13,17 +13,17 @@ Noun-adjective agreement
 Complete a full declension of the phrase “this foolish son” (hic imprudens filius).
 
 Singular - "this foolish son” (hic imprudens filius).
-Case	       Masculine	Feminine	Neuter
-Nominative	 	 	 
-Genitive	 	 	 
-Dative	 	 	 
-Accusative	 	 	 
-Ablative	 	 	 
+Case	       Masculine	
+Nominative	 imprudens filius	 	 
+Genitive	 	 imprudis filii	 
+Dative	 	 	  imprudi filio
+Accusative	 imprudem filium	 	 
+Ablative	 	 imprude filio 	 
 
 Plural - "this foolish son” (hic imprudens filius).
-Case	       Masculine	Feminine	Neuter
-Nominative	 	 	 
-Genitive	 	 	 
-Dative	 	 	 
-Accusative	 	 	 
-Ablative	 	 	 
+Case	       Masculine	
+Nominative	 imprudes filii   	 	 
+Genitive	 	 imprudum filiorum   	 
+Dative	 	 	  imprudibus filiis
+Accusative	  imprudes filios 	 
+Ablative	 	 imprudibus filiis   	 
