@@ -1,7 +1,7 @@
-fuerant
-captis
-captis
-fureant captis or captum
-diripiebant
-dictum
-viderunt
+cum fuissent 
+cum cepissent
+cum ceperunt
+cum captaesset
+cum capiebant
+cum uiderunt
+cum viderunt
