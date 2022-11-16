@@ -1,4 +1,4 @@
-**+Satisfactory**
+**+2 Satisfactory**
 
 1. Tense/Mood - Amo
 Perfect Active - amerunt❌ - amauit ✅
