@@ -20,10 +20,10 @@ misit - 3rd P. S. perfect
 
 Prior Deus M/F. S.❌ 
 Nominative -  Prior Deus	 	 
-Genitive - Prior Dui 	
-Dative - Prior Duo 	 	 
-Accusative - Prior Duum	 	 	 
-Ablative - Prior Duo
+Genitive - Prior Dei 	
+Dative - Prior Deo 	 	 
+Accusative - Prior Dueum	 	 	 
+Ablative - Prior Deo
 Prior Deus M/F. P.
 Nominative	- Prior Dui 	 	 
 Genitive - Prior Duorum 	 
@@ -45,11 +45,11 @@ Accusative - Prior Dua
 Ablative - Prior Duis
 
 Pristini Navis M/F S.❌ 
-Nominative - Pristini Navis
-Genitive - Pristini Navis 	 
-Dative - Pristini Navi	 	 
-Accusative - Pristini Navem 	 	 
-Ablative - Pristini Nave
+Nominative - illa nauis
+Genitive - illius nauis 	 
+Dative - illi naui	 	 
+Accusative - illam nauem 	 
+Ablative - illa naui
 Pristini Navis M/F P.
 Nominative - Pristini Naves
 Genitive - Pristini Navum 	 
@@ -58,13 +58,13 @@ Accusative - Pristini Naves
 Ablative - Pristini Navibus
 
 Capio F. 3rd S.
-Imperfect active - capibat ❌ 
-Imperfect passive - capibatur	❌  
-Perfect active - 	 capit❌ 
-Perfect passive - capest❌ 
+Imperfect active - capiebat ❌ 
+Imperfect passive - capiebatur	❌  
+Perfect active - 	 cepit❌ 
+Perfect passive - capta est❌ 
 
 Uideo N. 3rd S.
-Imperfect active - uidebat
-Imperfect passive	- uidebater❌ 
-Perfect active - uideoit ❌ 
-Perfect passive - uideoest❌ 
+Imperfect active - uidebant
+Imperfect passive	- uidebantur❌ 
+Perfect active - uiderunt ❌ 
+Perfect passive - uisa sunt ❌ 
