@@ -3,14 +3,14 @@
 Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. 
  - A long time ago, Promethues, the first son of Lapetus, made men out of clay.
 Simul *Vulcānus* ex lutō fēminam **faciēbat**.
- - At the same time, Vulcan made women❌ out of clay. 
+ - At the same time, Vulcan made women a out of clay. 
 *Minerva* huic fēminae animam **dedit** et omnēs deī dōna eī **misērunt**. 
- - Minerva gave up the souls of the women❌, and the God's sent her gifts. 
+ - Minerva gave up a soul of a women, and the God's sent her gifts. 
 ob id nōmen “Pandōra” *ei* **datum est**. 
  - Because of this, she was named Pandora.
 *Pandōra* ab Iove in coniugium Epimetheō **data est**.
  - Pandora was given away to marry Epimetheus by Jove.
-Fīlia **eōrum**❌ erat *Pyrrha*, prīma mortālis.
+Fīlia eōrum **erat** *Pyrrha*, prīma mortālis.
  - Their daughter, Pyrrha, was the first mortal. 
 
 What is the grammatical function of Iapetī fīlius prīmus?
