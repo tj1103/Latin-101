@@ -1,7 +1,8 @@
 **+1 Needs revisions**
 
-Boves Cydippe misit in agrum❌, sed tempore❌ non reddiderunt.
-Putabantur❌ sacra eo tempore peragi, et templi adesse sacerdos existimabatur❌, sed Cydippe proficisci non poterat.
+Cydippe boues misit in agros, sed tempus non rediderunt.
+the rituals were supposed to be performed at that time,
+Sacra duci debebant ab sacerdote, credebaturque in templo adesse sacerdos, Cydippe non poterat se in uiam dare. 
 Iunxerunt se sub iugo plaustri, ut matrem in templum deferrent.
 Cydippen in carro multas horas habet.❌
 Cydippe, ob hoc magnum facinus❌, deos precarit.❌
