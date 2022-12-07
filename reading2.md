@@ -16,14 +16,14 @@ Fīlia eōrum **erat** *Pyrrha*, prīma mortālis.
 What is the grammatical function of Iapetī fīlius prīmus?
  - "Iapetī fīlius prīmus" stands for the "first sone of lapetus. 
 Parse fingēbat and tell me what conjugation it belongs to.
- - fingebat belongs to the imperfect active.  ❌
+ - fingebat belongs to the imperfect passive.  
 What type of adjective is huic, what case is it in, and what word does it agree with?
  - huic is the dative singular of hic, it agrees with feminae
-Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. ❌
+Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. 
  - omnes means all people, dei means god, dona ei means gave him, singular, and miserunt is perfect passive mercy. 
 Parse data est and indicate what conjugation the verb belongs to.
- - data est is a perfect passive ❌
+ - data est is a perfect active ❌
 What type of grammatical construction is ab Iove?
- - ab is a prepostion for "from", however in the context of this sentence, it is used as a passived and means was given.   ❌
+ - ab is a prepostion for "from", however in the context of this sentence, it is used as a passived and means was given.   
 What tense is erat and what are the principle parts of the verb it comes from? ❌
-- erat is the imperfect passive singular of sum. 
+- erat is the imperfect and it comes from sum esse fui 
