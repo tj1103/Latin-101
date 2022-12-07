@@ -6,12 +6,12 @@ Cygnum, Martis filium, armis occidit.
 Mars uenit et armis propter filium contendit cum eo, sed Iouis inter eos fulmen misit.
 
 ❌ **Need *voice* on all identifications**
-occidit - 3rd P. S. perfect
-interficiebat - 3rd P. S imperfect active 
-necauit - 3rd P. S. perfect
-occidit - 3rd P. S. perfect
-contendit - 3rd P. S. Perfect 
-misit - 3rd P. S. perfect 
+occidit - 3rd P. S. perfect active
+interficiebat - 3rd P. S imperfect passive
+necauit - 3rd P. S. perfect active
+occidit - 3rd P. S. perfect active
+contendit - 3rd P. S. Perfect active
+misit - 3rd P. S. perfect active
 
 
 
