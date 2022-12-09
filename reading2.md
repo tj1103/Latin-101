@@ -22,8 +22,8 @@ What type of adjective is huic, what case is it in, and what word does it agree 
 Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. 
  - omnes means all people, dei means god, dona ei means gave him, singular, and miserunt is perfect passive mercy. 
 Parse data est and indicate what conjugation the verb belongs to.
- - data est is a perfect active ❌
+ - data est is a inperfect active 
 What type of grammatical construction is ab Iove?
  - ab is a prepostion for "from", however in the context of this sentence, it is used as a passived and means was given.   
-What tense is erat and what are the principle parts of the verb it comes from? ❌
+What tense is erat and what are the principle parts of the verb it comes from? 
 - erat is the imperfect and it comes from sum esse fui 
